@@ -310,7 +310,7 @@ main {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  background-image: url(Images/landing img..jpg);
+  /*background-image: url(Images/landing img..jpg);*/
   background-size: cover;
   background-repeat: no-repeat;
   flex-grow: 0;
@@ -329,13 +329,7 @@ main {
   background-color: rgba(3, 3, 3, 0.2);
 
   -webkit-animation: fadeIn 3s;
-  
-   background-image: url(Images/landing img..jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  flex-grow: 0;
-  flex-shrink: 2;
-  flex-basis: 50px;
+ 
 }
 
 .container {
