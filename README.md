@@ -1,3 +1,4 @@
+devhodes.github.io/DCH-Portfolio/ 
 
 Responsive portfolio - MM student 
-- Constantly being updated 
+note - this is a constant work in progress
